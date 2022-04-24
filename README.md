@@ -1,3 +1,20 @@
+Calculator performing operation without using any built-in library like MATH.
+It passes all the test case.
+you can try it out in your test cases.
+
+calculator:
+![calculator](https://user-images.githubusercontent.com/49411975/164954433-5202f84d-9b79-4858-92e9-606e732100f4.PNG)
+
+whole web page:
+![whole](https://user-images.githubusercontent.com/49411975/164954447-0c4b10bb-53cb-4889-a8b3-05cfcbd7635d.PNG)
+
+while performing operation:
+
+
+![operation](https://user-images.githubusercontent.com/49411975/164954460-8faf5fd2-81bf-4359-aef0-ab78bec57a16.PNG)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

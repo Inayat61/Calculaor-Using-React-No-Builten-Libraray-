@@ -3,6 +3,9 @@ It passes all the test case.
 you can try it out in your test cases.
 
 calculator:
+
+
+
 ![calculator](https://user-images.githubusercontent.com/49411975/164954433-5202f84d-9b79-4858-92e9-606e732100f4.PNG)
 
 whole web page:
